@@ -1,12 +1,8 @@
 # slides from @sokra
 
-## [Introduction to webpack](http://sokra.github.io/slides/webpack/)
+## [Introduction to webpack](http://rkarthick90.github.io/slides/webpack/)
 
-## [Advanced Frontend Optimization (with webpack)](http://sokra.github.io/slides/frontend-optimize/)
-
-## [In-depth Introduction to webpack2](http://sokra.github.io/slides/webpack2/)
-
-## [How webpack works](https://raw.githubusercontent.com/sokra/slides/master/data/how-webpack-works.pdf)
+## [How webpack works](https://raw.githubusercontent.com/rkarthick90/slides/master/data/how-webpack-works.pdf)
 
 # Build from source
 
