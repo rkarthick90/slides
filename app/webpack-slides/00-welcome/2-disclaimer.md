@@ -1,3 +1,3 @@
 ## Disclaimer
 
-Biased view of mine. this is different
+Don't worry its going to be good.
